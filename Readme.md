@@ -1,4 +1,4 @@
-#DataPreProcessing Before Feeding TO Our ML Algorithms
+#DataPreProcessing Before Feeding To Our Machine Learning Algorithm
 - These Project Includes:-
 			1) Importing The Data
 			2) Taking A Quick Look To The DataStructure
